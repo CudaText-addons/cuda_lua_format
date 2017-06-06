@@ -1,0 +1,22 @@
+[info]
+title=Lua Format
+desc=Formats Lua code
+type=cudatext-plugin
+subdir=cuda_lua_format
+homepage=https://github.com/CudaText-addons/cuda_lua_format
+
+[item1]
+section=commands
+caption=Lua Format\Format
+method=run
+lexers=Lua
+
+;[item2]
+;section=commands
+;caption=Lua Format\Configure
+;method=config_global
+;
+;[item3]
+;section=commands
+;caption=Lua Format\Configure (local)
+;method=config_local
