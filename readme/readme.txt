@@ -6,5 +6,5 @@ Formatter taken from Sublime Text 3 plugin:
 https://github.com/FloydaGithub/LuaFormat
 
 
-Author: Alexey T.
+Author: Alexey Torgashin (CudaText)
 License: MIT
